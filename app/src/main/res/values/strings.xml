@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Android Lab 1</string>
+    <string name="_2">2</string>
+    <string name="click_me">Click Me</string>
+    <string name="introtext">Hello World</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="goodbye">Goodbye Summer!</string>
+    <string name="hello_name">Hello %s!</string>
+</resources>

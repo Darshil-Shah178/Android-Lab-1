@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Lab 1</string>
+    <string name="click_me">"Napsauta minua "</string>
+    <string name="_2">kaksi</string>
+    <string name="introtext">" Hei maailma!"</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="goodbye">Heipa Kesa!</string>
+    <string name="hello_name">Hei %s!</string>
+</resources>
